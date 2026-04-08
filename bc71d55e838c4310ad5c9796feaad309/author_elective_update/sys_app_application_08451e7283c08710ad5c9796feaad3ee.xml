@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>desfesfdes</name>
+        <order>100</order>
+        <roles>x_1921407_nowflix.desfesfdes_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 13:07:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>08451e7283c08710ad5c9796feaad3ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>desfesfdes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_update_name>sys_app_application_08451e7283c08710ad5c9796feaad3ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 13:07:40</sys_updated_on>
+        <title>desfesfdes</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</application>
+        <file_path/>
+        <instance_id>51120e4b3b49e254c55a348aa4e45ae0</instance_id>
+        <instance_name>dev337377</instance_name>
+        <name>sys_app_application_08451e7283c08710ad5c9796feaad3ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>desfesfdes</name><order>100</order><roles>x_1921407_nowflix.desfesfdes_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-08 13:07:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>08451e7283c08710ad5c9796feaad3ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>desfesfdes</sys_name><sys_overrides/><sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package><sys_policy/><sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope><sys_update_name>sys_app_application_08451e7283c08710ad5c9796feaad3ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-08 13:07:40</sys_updated_on><title>desfesfdes</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1744844326</payload_hash>
+        <record_name>desfesfdes</record_name>
+        <reverted_from/>
+        <source>9cb3e99e83008310ad5c9796feaad35a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 13:07:40</sys_created_on>
+        <sys_id>44451e7283c08710ad5c9796feaad3ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d6d34a92d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 13:07:40</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>40451e7281c08710add5e599e1fc6afe</update_guid>
+        <update_guid_history>40451e7281c08710add5e599e1fc6afe:-1744844326</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="desfesfdes">b666923683c08710ad5c9796feaad362</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 13:12:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>2a175e01e54e41008c9146fede9fe400</sys_id>
+        <sys_metadata>08451e7283c08710ad5c9796feaad3ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>desfesfdes</sys_name>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_scope_delete display_value="">249d8a012e144e62984aefc85ccff059</sys_scope_delete>
+        <sys_update_name>sys_app_application_08451e7283c08710ad5c9796feaad3ee</sys_update_name>
+        <sys_update_version display_value="sys_app_application_08451e7283c08710ad5c9796feaad3ee">44451e7283c08710ad5c9796feaad3ff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 13:12:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

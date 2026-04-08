@@ -194,15 +194,15 @@
             <label>10</label>
             <language>en</language>
             <name>x_1921407_nowflix_review</name>
-            <sequence>9</sequence>
+            <sequence>10</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-04-07 16:39:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-07 16:39:18</sys_updated_on>
+            <sys_updated_on>2026-04-08 12:35:18</sys_updated_on>
             <value>10</value>
         </sys_choice>
     </sys_choice>

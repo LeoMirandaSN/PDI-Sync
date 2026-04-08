@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions table="x_1921407_nowflix_media">genreLIKE9782dab683808710ad5c9796feaad30f^EQ<item endquery="false" field="genre" goto="false" newquery="false" operator="LIKE" or="false" value="9782dab683808710ad5c9796feaad30f"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+g_form.addErrorMessage('a condition deu ruim!!!!');
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+g_form.addInfoMessage('a condition deu boa!!!!');
+}]]></script_true>
+        <set_values/>
+        <short_description>teste ui</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 14:22:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4256e67283448710ad5c9796feaad31f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>teste ui</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_update_name>sys_ui_policy_4256e67283448710ad5c9796feaad31f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 14:30:34</sys_updated_on>
+        <table>x_1921407_nowflix_media</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</application>
+        <file_path/>
+        <instance_id>51120e4b3b49e254c55a348aa4e45ae0</instance_id>
+        <instance_name>dev337377</instance_name>
+        <name>sys_ui_policy_4256e67283448710ad5c9796feaad31f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="x_1921407_nowflix_media"&gt;genreLIKE9782dab683808710ad5c9796feaad30f^EQ&lt;item endquery="false" field="genre" goto="false" newquery="false" operator="LIKE" or="false" value="9782dab683808710ad5c9796feaad30f"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;true&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+g_form.addErrorMessage('a condition deu ruim!!!!');
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+g_form.addInfoMessage('a condition deu boa!!!!');
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;teste ui&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-04-08 14:22:58&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;4256e67283448710ad5c9796feaad31f&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;teste ui&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Nowflix" source="x_1921407_nowflix"&gt;bc71d55e838c4310ad5c9796feaad309&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Nowflix"&gt;bc71d55e838c4310ad5c9796feaad309&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_4256e67283448710ad5c9796feaad31f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-04-08 14:30:34&lt;/sys_updated_on&gt;&lt;table&gt;x_1921407_nowflix_media&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1253629247</payload_hash>
+        <record_name>teste ui</record_name>
+        <reverted_from/>
+        <source>9cb3e99e83008310ad5c9796feaad35a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 14:30:34</sys_created_on>
+        <sys_id>d638a6f683448710ad5c9796feaad3b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d6d808be20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 14:30:34</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>5638a6f62c448710c519dc174b7603b5</update_guid>
+        <update_guid_history>5638a6f62c448710c519dc174b7603b5:-1253629247,6427a676ce4487101f6ee62991fa7a19:187934440,8ec66236cf448710b1abe03e0f32fa0b:-2072627018,0b76a6f2e4448710daf0e9553f9b0fd6:-1792710025</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 14:34:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>40c32d8080574e749b7c4f0ad4f483c9</sys_id>
+        <sys_metadata>4256e67283448710ad5c9796feaad31f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>teste ui</sys_name>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_parent display_value="Media">a4326dea838cc310ad5c9796feaad398</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_scope_delete display_value="">249d8a012e144e62984aefc85ccff059</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_4256e67283448710ad5c9796feaad31f</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_4256e67283448710ad5c9796feaad31f">d638a6f683448710ad5c9796feaad3b6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 14:34:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

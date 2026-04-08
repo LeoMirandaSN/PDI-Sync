@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description>Default access control on x_1921407_nowflix_tabela_teste</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1921407_nowflix_tabela_teste</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 12:42:21</sys_created_on>
+        <sys_id>957f4e3683808710ad5c9796feaad3b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1921407_nowflix_tabela_teste</sys_name>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_update_name>sys_security_acl_957f4e3683808710ad5c9796feaad3b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 12:42:21</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</application>
+        <file_path/>
+        <instance_id>51120e4b3b49e254c55a348aa4e45ae0</instance_id>
+        <instance_name>dev337377</instance_name>
+        <name>sys_security_acl_957f4e3683808710ad5c9796feaad3b6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on x_1921407_nowflix_tabela_teste</description><local_or_existing>Local</local_or_existing><name>x_1921407_nowflix_tabela_teste</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-08 12:42:21</sys_created_on><sys_id>957f4e3683808710ad5c9796feaad3b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1921407_nowflix_tabela_teste</sys_name><sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package><sys_policy/><sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope><sys_update_name>sys_security_acl_957f4e3683808710ad5c9796feaad3b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-08 12:42:21</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-821023866</payload_hash>
+        <record_name>x_1921407_nowflix_tabela_teste</record_name>
+        <reverted_from/>
+        <source>9cb3e99e83008310ad5c9796feaad35a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 12:42:22</sys_created_on>
+        <sys_id>d17f4e3683808710ad5c9796feaad3bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d6d1d7c210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 12:42:22</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>dd7f4e36f3808710d586a5d47ea039b9</update_guid>
+        <update_guid_history>dd7f4e36f3808710d586a5d47ea039b9:-821023866</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 12:42:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>565b7e4f7897483a8d28d293e4175fb9</sys_id>
+        <sys_metadata>957f4e3683808710ad5c9796feaad3b6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1921407_nowflix_tabela_teste</sys_name>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_parent display_value="">957f4e3683808710ad5c9796feaad3da</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_scope_delete display_value="">249d8a012e144e62984aefc85ccff059</sys_scope_delete>
+        <sys_update_name>sys_security_acl_957f4e3683808710ad5c9796feaad3b6</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_957f4e3683808710ad5c9796feaad3b6">d17f4e3683808710ad5c9796feaad3bb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 12:42:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

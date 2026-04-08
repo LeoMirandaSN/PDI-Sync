@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="DELETE">
+        <action_name>media_open_website</action_name>
+        <active>true</active>
+        <client>true</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments/>
+        <condition>!current.website.nil()</condition>
+        <form_action>true</form_action>
+        <form_button>false</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>true</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style/>
+        <format_for_configurable_workspace>false</format_for_configurable_workspace>
+        <hint/>
+        <isolate_script>true</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <messages/>
+        <name>teste</name>
+        <onclick>media_open_website()</onclick>
+        <order>100</order>
+        <script><![CDATA[function media_open_website() {
+	top.window.open(g_form.getValue("website"));
+}]]></script>
+        <show_insert>false</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 12:10:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>33d742b683408710ad5c9796feaad3fe</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>teste</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_update_name>sys_ui_action_33d742b683408710ad5c9796feaad3fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 12:14:34</sys_updated_on>
+        <table>x_1921407_nowflix_media</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</application>
+        <file_path/>
+        <instance_id>51120e4b3b49e254c55a348aa4e45ae0</instance_id>
+        <instance_name>dev337377</instance_name>
+        <name>sys_ui_action_33d742b683408710ad5c9796feaad3fe</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name&gt;media_open_website&lt;/action_name&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;true&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition&gt;!current.website.nil()&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;false&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;true&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style/&gt;&lt;format_for_configurable_workspace&gt;false&lt;/format_for_configurable_workspace&gt;&lt;hint/&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;messages/&gt;&lt;name&gt;teste&lt;/name&gt;&lt;onclick&gt;media_open_website()&lt;/onclick&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[function media_open_website() {
+	top.window.open(g_form.getValue("website"));
+}]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-04-08 12:10:24&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;33d742b683408710ad5c9796feaad3fe&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;teste&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Nowflix" source="x_1921407_nowflix"&gt;bc71d55e838c4310ad5c9796feaad309&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Nowflix"&gt;bc71d55e838c4310ad5c9796feaad309&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_33d742b683408710ad5c9796feaad3fe&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-04-08 12:14:34&lt;/sys_updated_on&gt;&lt;table&gt;x_1921407_nowflix_media&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1305723490</payload_hash>
+        <record_name>teste</record_name>
+        <reverted_from/>
+        <source>9cb3e99e83008310ad5c9796feaad35a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 12:14:34</sys_created_on>
+        <sys_id>5a19cef683408710ad5c9796feaad351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d6d040b510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 12:14:34</sys_updated_on>
+        <type>UI Action</type>
+        <update_guid>d619cef6d94087103b87c124866c7150</update_guid>
+        <update_guid_history>d619cef6d94087103b87c124866c7150:1305723490,99a84eb6bc408710830655ca5254fc32:-1956667792,c778cab685408710eb57db41875f7251:2055499974,81288ab6ba408710a207f6b0bc5e3055:1396647135</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 12:15:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action">sys_ui_action</sys_db_object>
+        <sys_id>20253430c50b47e0852ac4ec0350fa40</sys_id>
+        <sys_metadata>33d742b683408710ad5c9796feaad3fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>teste</sys_name>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_parent display_value="Media">a4326dea838cc310ad5c9796feaad398</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_scope_delete display_value="">249d8a012e144e62984aefc85ccff059</sys_scope_delete>
+        <sys_update_name>sys_ui_action_33d742b683408710ad5c9796feaad3fe</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_33d742b683408710ad5c9796feaad3fe">5a19cef683408710ad5c9796feaad351</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 12:15:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

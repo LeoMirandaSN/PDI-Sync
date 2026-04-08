@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <filter_extension/>
+        <is_df_table>false</is_df_table>
+        <is_extendable>false</is_extendable>
+        <label>tabela teste</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1921407_nowflix_tabela_teste</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 12:42:21</sys_created_on>
+        <sys_id>576f823683808710ad5c9796feaad384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tabela teste</sys_name>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_update_name>sys_db_object_576f823683808710ad5c9796feaad384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 12:42:21</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_1921407_nowflix.tabela_teste_user" name="x_1921407_nowflix.tabela_teste_user">c97f4a7283808710ad5c9796feaad301</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</application>
+        <file_path/>
+        <instance_id>51120e4b3b49e254c55a348aa4e45ae0</instance_id>
+        <instance_name>dev337377</instance_name>
+        <name>sys_db_object_576f823683808710ad5c9796feaad384</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><filter_extension/><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label>tabela teste</label><live_feed_enabled>false</live_feed_enabled><name>x_1921407_nowflix_tabela_teste</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-08 12:42:21</sys_created_on><sys_id>576f823683808710ad5c9796feaad384</sys_id><sys_mod_count>0</sys_mod_count><sys_name>tabela teste</sys_name><sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package><sys_policy/><sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope><sys_update_name>sys_db_object_576f823683808710ad5c9796feaad384</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-08 12:42:21</sys_updated_on><update_access>false</update_access><user_role display_value="x_1921407_nowflix.tabela_teste_user" name="x_1921407_nowflix.tabela_teste_user">c97f4a7283808710ad5c9796feaad301</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1816648182</payload_hash>
+        <record_name>tabela teste</record_name>
+        <reverted_from/>
+        <source>9cb3e99e83008310ad5c9796feaad35a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 12:42:22</sys_created_on>
+        <sys_id>297f8e3683808710ad5c9796feaad30f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d6d1d7e180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 12:42:22</sys_updated_on>
+        <type>Table</type>
+        <update_guid>257f8e36ef808710307a7db4d163a40e</update_guid>
+        <update_guid_history>257f8e36ef808710307a7db4d163a40e:-1816648182</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-08 12:42:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>0a1f9c4c03f24dd484801941fd8629a4</sys_id>
+        <sys_metadata>576f823683808710ad5c9796feaad384</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tabela teste</sys_name>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_scope_delete display_value="">249d8a012e144e62984aefc85ccff059</sys_scope_delete>
+        <sys_update_name>sys_db_object_576f823683808710ad5c9796feaad384</sys_update_name>
+        <sys_update_version display_value="sys_db_object_576f823683808710ad5c9796feaad384">297f8e3683808710ad5c9796feaad30f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-08 12:42:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
