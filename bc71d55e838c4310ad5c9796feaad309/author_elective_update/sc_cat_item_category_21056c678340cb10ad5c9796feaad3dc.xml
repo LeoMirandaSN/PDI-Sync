@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="RP TESTE TESTE">61056c678340cb10ad5c9796feaad3d2</sc_cat_item>
+        <sc_category display_value="Nowflix">061f033a83888710ad5c9796feaad3c8</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-10 12:52:47</sys_created_on>
+        <sys_id>21056c678340cb10ad5c9796feaad3dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nowflix.RP TESTE TESTE</sys_name>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_update_name>sc_cat_item_category_21056c678340cb10ad5c9796feaad3dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-10 12:52:47</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</application>
+        <file_path/>
+        <instance_id>51120e4b3b49e254c55a348aa4e45ae0</instance_id>
+        <instance_name>dev337377</instance_name>
+        <name>sc_cat_item_category_21056c678340cb10ad5c9796feaad3dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="RP TESTE TESTE">61056c678340cb10ad5c9796feaad3d2</sc_cat_item><sc_category display_value="Nowflix">061f033a83888710ad5c9796feaad3c8</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-10 12:52:47</sys_created_on><sys_id>21056c678340cb10ad5c9796feaad3dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Nowflix.RP TESTE TESTE</sys_name><sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package><sys_policy/><sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope><sys_update_name>sc_cat_item_category_21056c678340cb10ad5c9796feaad3dc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-10 12:52:47</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-415544084</payload_hash>
+        <record_name>Nowflix.RP TESTE TESTE</record_name>
+        <reverted_from/>
+        <source>9cb3e99e83008310ad5c9796feaad35a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-10 12:52:47</sys_created_on>
+        <sys_id>2905e8a78340cb10ad5c9796feaad3d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d7773be020000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-10 12:52:47</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>2505e8a74040cb105564148b285ef5d2</update_guid>
+        <update_guid_history>2505e8a74040cb105564148b285ef5d2:-415544084</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Nowflix.RP TESTE TESTE">acd66cab8340cb10ad5c9796feaad3bb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-10 13:00:38</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>23499809f8624203943a3a9ee14da2a1</sys_id>
+        <sys_metadata>21056c678340cb10ad5c9796feaad3dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nowflix.RP TESTE TESTE</sys_name>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_scope_delete display_value="">249d8a012e144e62984aefc85ccff059</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_21056c678340cb10ad5c9796feaad3dc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_21056c678340cb10ad5c9796feaad3dc">2905e8a78340cb10ad5c9796feaad3d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-10 13:00:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

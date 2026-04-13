@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="esse é um RP pra Suggestion">bd66a86b8340cb10ad5c9796feaad382</sc_cat_item>
+        <sc_category display_value="Nowflix">061f033a83888710ad5c9796feaad3c8</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-10 12:58:48</sys_created_on>
+        <sys_id>7966ac6b8340cb10ad5c9796feaad318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nowflix.esse é um RP pra Suggestion</sys_name>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_update_name>sc_cat_item_category_7966ac6b8340cb10ad5c9796feaad318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-10 12:58:48</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</application>
+        <file_path/>
+        <instance_id>51120e4b3b49e254c55a348aa4e45ae0</instance_id>
+        <instance_name>dev337377</instance_name>
+        <name>sc_cat_item_category_7966ac6b8340cb10ad5c9796feaad318</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="esse é um RP pra Suggestion">bd66a86b8340cb10ad5c9796feaad382</sc_cat_item><sc_category display_value="Nowflix">061f033a83888710ad5c9796feaad3c8</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-10 12:58:48</sys_created_on><sys_id>7966ac6b8340cb10ad5c9796feaad318</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Nowflix.esse é um RP pra Suggestion</sys_name><sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package><sys_policy/><sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope><sys_update_name>sc_cat_item_category_7966ac6b8340cb10ad5c9796feaad318</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-10 12:58:48</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>514264403</payload_hash>
+        <record_name>Nowflix.esse é um RP pra Suggestion</record_name>
+        <reverted_from/>
+        <source>9cb3e99e83008310ad5c9796feaad35a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-10 12:58:48</sys_created_on>
+        <sys_id>b566ac6b8340cb10ad5c9796feaad31e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d777942d70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-10 12:58:48</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b166ac6b6140cb10c0cdcda8bfeedc1d</update_guid>
+        <update_guid_history>b166ac6b6140cb10c0cdcda8bfeedc1d:514264403</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Nowflix.esse é um RP pra Suggestion">34d6acab8340cb10ad5c9796feaad375</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-10 13:00:39</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0758af516f82484582019d5eb9f5a321</sys_id>
+        <sys_metadata>7966ac6b8340cb10ad5c9796feaad318</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nowflix.esse é um RP pra Suggestion</sys_name>
+        <sys_package display_value="Nowflix" source="x_1921407_nowflix">bc71d55e838c4310ad5c9796feaad309</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">bc71d55e838c4310ad5c9796feaad309</sys_scope>
+        <sys_scope_delete display_value="">249d8a012e144e62984aefc85ccff059</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_7966ac6b8340cb10ad5c9796feaad318</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_7966ac6b8340cb10ad5c9796feaad318">b566ac6b8340cb10ad5c9796feaad31e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-10 13:00:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
